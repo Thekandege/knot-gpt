@@ -1,0 +1,35 @@
+/* Expanded state */
+.knot-memory-item.expanded {
+    background: var(--knot-hover);
+    border-color: var(--knot-accent);
+}
+
+.knot-memory-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6px;
+}
+
+.knot-expand-btn {
+    background: none;
+    border: none;
+    color: var(--knot-text-muted);
+    cursor: pointer;
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+.knot-expand-btn:hover {
+    background: var(--knot-bg-dark);
+    color: var(--knot-text);
+}
+
+/* Search term highlighting */
+mark {
+    background: #fef3c7;
+    color: #92400e;
+    padding: 1px 2px;
+    border-radius: 2px;
+}

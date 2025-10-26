@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Knot GPT",
+  "version": "1.0",
+  "description": "Searchable, persistent sidebar for ChatGPT/DeepSeek conversations",
+  "icons": {
+    "16": "trefoil.png",
+    "48": "trefoil.png", 
+    "128": "trefoil.png"
+  },
+  "content_scripts": [{
+    "matches": [
+      "https://chatgpt.com/*",
+      "https://chat.openai.com/*", 
+      "https://chat.deepseek.com/*"
+    ],
+    "js": ["content.js"],
+    "css": ["styles.css"]
+  }],
+  "permissions": ["storage"]
+}
