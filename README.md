@@ -1,4 +1,5 @@
-# Knot GPT 🔗
+# Knot GPT 🔗 v2 
+*Universal AI Conversation Memory*
 
 **Never lose an AI conversation again**
 
@@ -6,15 +7,19 @@ A free, open-source Chrome extension that automatically saves and lets you searc
 
 ![Knot GPT Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Knot+GPT+in+Action)
 
-## ✨ Features
+## 🚀 v2 Features
 
-- 🔍 **Search across all AI conversations** - Find anything from any chat
-- 💾 **Auto-save everything** - Works silently in the background  
-- 🔒 **100% private** - All data stays on your computer
-- 🎯 **One-click copy** - Continue conversations where you left off
-- 🌐 **Multi-platform** - Works with ChatGPT & DeepSeek
-- 🚀 **Lightweight** - No performance impact
+- **🌐 Universal Platform Support**: ChatGPT, DeepSeek, Grok, Claude, Gemini
+- **📖 Expanded Reading View**: Click any result to read full conversations
+- **🌓 Light/Dark Theme**: Toggle between themes
+- **🎯 Smart Deduplication**: Cleaner search results
+- **📱 Better Performance**: Limited to 7 most relevant results
+- **📋 Fixed Copy Function**: Reliable text copying across all platforms
 
+## 🆕 New Platforms Added
+- **Grok** (x.com/grok & grok.com)
+- **Claude** (claude.ai)
+- **Gemini** (gemini.google.com)
 ## 🚀 Installation (60 seconds)
 
 1. **Download this repo**
@@ -29,7 +34,7 @@ A free, open-source Chrome extension that automatically saves and lets you searc
    - Select the unzipped `knot-gpt` folder
 
 3. **Start using!**
-   - Visit [ChatGPT](https://chatgpt.com) or [DeepSeek](https://chat.deepseek.com)
+   - Visit [ChatGPT](https://chatgpt.com) or [DeepSeek](https://chat.deepseek.com) or claude,gemini,grok
    - Look for the floating 🔗 icon
    - Click to search your conversation history
 
@@ -43,7 +48,10 @@ A free, open-source Chrome extension that automatically saves and lets you searc
 ## 🛠 Supported Platforms
 
 - ✅ ChatGPT (chatgpt.com)
-- ✅ DeepSeek (chat.deepseek.com) 
+- ✅ DeepSeek (chat.deepseek.com)
+- **Grok** (x.com/grok & grok.com)
+- **Claude** (claude.ai)
+- **Gemini** (gemini.google.com)
 - 🔜 More coming soon!
 
 ## 🤝 Contributing
