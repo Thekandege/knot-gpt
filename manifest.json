@@ -10,10 +10,14 @@
   },
   "content_scripts": [{
     "matches": [
-      "https://chatgpt.com/*",
-      "https://chat.openai.com/*", 
-      "https://chat.deepseek.com/*"
-    ],
+    "https://chatgpt.com/*",
+    "https://chat.openai.com/*", 
+    "https://chat.deepseek.com/*",
+    "https://x.com/grok*",
+    "https://grok.com/*",
+    "https://claude.ai/*",
+    "https://gemini.google.com/*"
+],
     "js": ["content.js"],
     "css": ["styles.css"]
   }],
