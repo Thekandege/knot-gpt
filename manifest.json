@@ -1,23 +1,18 @@
-{
+{{
   "manifest_version": 3,
   "name": "Knot GPT",
-  "version": "1.0",
-  "description": "Searchable, persistent sidebar for ChatGPT/DeepSeek conversations",
-  "icons": {
-    "16": "trefoil.png",
-    "48": "trefoil.png", 
-    "128": "trefoil.png"
-  },
+  "version": "2.0",
+  "description": "Searchable, persistent sidebar for AI conversations",
   "content_scripts": [{
     "matches": [
-    "https://chatgpt.com/*",
-    "https://chat.openai.com/*", 
-    "https://chat.deepseek.com/*",
-    "https://x.com/grok*",
-    "https://grok.com/*",
-    "https://claude.ai/*",
-    "https://gemini.google.com/*"
-],
+      "https://chatgpt.com/*",
+      "https://chat.openai.com/*",
+      "https://chat.deepseek.com/*",
+      "https://x.com/grok*",
+      "https://grok.com/*",
+      "https://claude.ai/*",
+      "https://gemini.google.com/*"
+    ],
     "js": ["content.js"],
     "css": ["styles.css"]
   }],
