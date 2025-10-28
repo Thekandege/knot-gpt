@@ -54,6 +54,10 @@ A free, open-source Chrome extension that automatically saves and lets you searc
 - **Gemini** (gemini.google.com)
 - 🔜 More coming soon!
 
+  ## 🌐 Browser Support
+- **Chrome** (Chrome Web Store - $5 fee)
+- **Firefox** (Firefox Add-ons - **FREE!** + Android support)
+
 ## 🤝 Contributing
 
 Found a bug? Have a feature request? 
