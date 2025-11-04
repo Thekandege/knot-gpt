@@ -1,4 +1,4 @@
-{{
+{
   "manifest_version": 3,
   "name": "Knot GPT",
   "version": "2.0",
@@ -18,3 +18,4 @@
   }],
   "permissions": ["storage"]
 }
+
