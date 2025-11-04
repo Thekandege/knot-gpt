@@ -71,3 +71,4 @@ MIT License - feel free to use, modify, and distribute!
 ---
 
 **Like Knot GPT?** ⭐ Star this repo to support the project!
+Support me through paypal: paypal.me/thekandege
